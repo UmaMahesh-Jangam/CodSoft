@@ -1,4 +1,5 @@
-Title: CodSoft Python Programming Internship 
+Title: CodSoft Python Programming Internship.
+
 I have completed three projects in this internship 
 1. Calculator
 2. Password Generator
